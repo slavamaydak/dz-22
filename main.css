@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Lato";
+}
+
+.s-1 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.s-1-foto {
+  width: 700px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.s-number {
+  position: absolute;
+  top: 40px;
+  font-size: 240px;
+  font-weight: 800;
+  opacity: 0.8;
+  color: aliceblue;
+  position: absolute;
+  top: 30%;
+  left: 45%;
+}
